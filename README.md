@@ -5,5 +5,5 @@
 ##### oscar
 ###### programming
  I am called Ignatius
- I am level 1 student   
+ I am a level 1 student   
  And i live at ettokoss simbock
