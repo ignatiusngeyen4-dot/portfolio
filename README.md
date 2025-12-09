@@ -22,14 +22,14 @@
 >> I love football  
 Rc Traditional 'Hello word' code  
 To run my project follow the following steps  
-'''cmd
+```cmd
 -links
  git init -- in the folder to choose to work on  
  git clone <url> -- to clone my repo   
-''' this will run the code bellow  
-''' javascript  
+``` this will run the code bellow  
+``` javascript  
  console.log("Hello word")  
-'''  
+```  
 -links  
 The AI model was provided by [ignatius](https://github.com/ignatius)
 
