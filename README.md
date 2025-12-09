@@ -29,8 +29,8 @@ To run my project follow the following steps
 ''' this will run the code bellow  
 ''' javascript  
  console.log("Hello word")  
-'''
--links
+'''  
+-links  
 The AI model was provided by [ignatius](https://github.com/ignatius)
 
 
