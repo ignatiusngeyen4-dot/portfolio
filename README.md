@@ -31,7 +31,7 @@ To run my project follow the following steps
  console.log("Hello word")  
 '''
 -links
-The AI model was provided by [ignatius](https://github.com/ignatius
+The AI model was provided by [ignatius](https://github.com/ignatius)
 
 
     
