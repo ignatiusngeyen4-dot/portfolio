@@ -6,7 +6,7 @@
 ###### programming
  I am called Ignatius
  I am a level 1 student   
- And i live at ettokoss simbock
- **portfolio**  
- *my work*  
- ***practical***  
+ And i live at ettokoss simbock  
+ **singing**   
+ *my year*  
+ ***family***  
