@@ -20,18 +20,17 @@
  3. water melon
 > I am 19 years old
 >> I love football  
-Rc Traditional 'Hello word' code  
-To run my project follow the following steps  
-'''cmd
--links
- git init -- in the folder to choose to work on  
- git clone <url> -- to clone my repo   
-''' this will run the code bellow  
-''' javascript  
- console.log("Hello word")  
-'''  
--links  
-The AI model was provided by [ignatius](https://github.com/ignatius)
+The traditional `Hello word` code  
+To run my project follow the following steps   
+```cmd
+git init  --In the folder to chose to work on
+git clone <url> --To clone my repo
+```
+This will run the code below  
+```javascript
+console.log("Hello World")
+```
+The AI model was provided by [Ignatius](https://github.com/ignatius)_
 
 
     
